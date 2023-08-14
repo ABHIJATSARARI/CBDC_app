@@ -1,0 +1,5 @@
+{
+  "/send": "POST",
+  "/receive": "POST",
+  "/transactions/:userId": "GET"
+}

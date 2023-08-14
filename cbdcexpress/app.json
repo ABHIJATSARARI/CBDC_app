@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "CBDCExpress",
+    "slug": "cbdc-express",
+    "version": "1.0.1",
+    "icon": "./icon.png",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#25292e"
+    },
+    "sdkVersion": "49.0.0",
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "description": "Central Bank Digital Currency Express App",
+    "androidStatusBar": {
+      "backgroundColor": "#2196F3",
+      "barStyle": "dark-content"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.anonymous.cbdcexpress"
+    }
+  }
+}
