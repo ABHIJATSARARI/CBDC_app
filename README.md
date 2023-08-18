@@ -2,7 +2,7 @@
  
 # CBDC-Express
 
-![CBDC-Express Logo]([logo.png](https://github.com/ABHIJATSARARI/CBDC_app/blob/main/cbdcexpress/assets/icon.png))
+![CBDC-Express Logo](https://github.com/ABHIJATSARARI/CBDC_app/blob/main/cbdcexpress/assets/icon.png)
 
 CBDC-Express is a revolutionary digital wallet application that empowers users to manage Central Bank Digital Currencies (CBDCs) seamlessly. It leverages blockchain technology, including aspects of the XRP Ledger, to provide instant, secure, and efficient cross-border transactions.
 
